@@ -3,7 +3,7 @@ GDHub is a place where you can find everything about Geometry Dash.
 
 This place is currently in really work in progress, but for now, we've got multiple big projects going on that you can check out!
 
-## The GD Timeline
+## [The GD Timeline](https://github.com/GD-Community-Hub/Timeline)
 This is (for now) the only project on GDHub. It aims to document the entire history of Geometry Dash, along with a large selection of articles regarding these events. The events on the Timeline are written by multiple authors, and it can be one of you as well!
 
 The website is currently in the Alpha 1.1 release.
