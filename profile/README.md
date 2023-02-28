@@ -6,8 +6,7 @@ This place is currently in really work in progress, but for now, we've got multi
 ## [The GD Timeline](https://github.com/GD-Community-Hub/Timeline)
 This is (for now) the only project on GDHub. It aims to document the entire history of Geometry Dash, along with a large selection of articles regarding these events. The events on the Timeline are written by multiple authors, and it can be one of you as well!
 
-The website is currently in the Alpha 1.1 release.
-
+The website is currently in the Beta 1.2 release.
 > Where can I contribute to TGT?
 
 We have a Discord server (I'll put the link here when I can find it), for now - just DM the owner @EsmiK#2706.
